@@ -1,1 +1,7 @@
 science,5
+science,5
+ENGLISH,5
+MATHS,3
+MATHES,3
+MATHESI,3
+MATHESIS,3
